@@ -377,6 +377,9 @@ body{
     .explore__menu__text{
         font-size: 50px;
     }
+    .footer__text{
+        margin-left: 1000px;
+      }
 }
 @media (min-width:1400px){
     .conatiner{
